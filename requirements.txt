@@ -1,0 +1,4 @@
+flet==0.24.1
+yfinance
+pandas
+numpy
